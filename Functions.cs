@@ -5,7 +5,7 @@ public static class Functions
     public static void MainLoop()
     {
         string result = string.Empty;
-        string userNum = string.Empty;
+        string? userNum = "";
         bool checkedState = true;
         do
         {
