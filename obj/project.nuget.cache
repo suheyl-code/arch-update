@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DFXkHPNzbY6mnFImJp6AJcjlYlpRn52tAxnUY3YjAaS+XZnVcBK1KdN2jJSJbQpI4qrUXlCIZErEuebe3jYO2w==",
+  "success": true,
+  "projectFilePath": "/home/suheyl/Dev/arch-update/arch-update.csproj",
+  "expectedPackageFiles": [
+    "/home/suheyl/.nuget/packages/htmlagilitypack/1.11.42/htmlagilitypack.1.11.42.nupkg.sha512",
+    "/home/suheyl/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

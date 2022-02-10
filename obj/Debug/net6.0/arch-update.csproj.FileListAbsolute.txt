@@ -1,0 +1,17 @@
+/home/suheyl/Dev/arch-update/bin/Debug/net6.0/arch-update
+/home/suheyl/Dev/arch-update/bin/Debug/net6.0/arch-update.deps.json
+/home/suheyl/Dev/arch-update/bin/Debug/net6.0/arch-update.runtimeconfig.json
+/home/suheyl/Dev/arch-update/bin/Debug/net6.0/arch-update.dll
+/home/suheyl/Dev/arch-update/bin/Debug/net6.0/ref/arch-update.dll
+/home/suheyl/Dev/arch-update/bin/Debug/net6.0/arch-update.pdb
+/home/suheyl/Dev/arch-update/bin/Debug/net6.0/HtmlAgilityPack.dll
+/home/suheyl/Dev/arch-update/obj/Debug/net6.0/arch-update.csproj.AssemblyReference.cache
+/home/suheyl/Dev/arch-update/obj/Debug/net6.0/arch-update.GeneratedMSBuildEditorConfig.editorconfig
+/home/suheyl/Dev/arch-update/obj/Debug/net6.0/arch-update.AssemblyInfoInputs.cache
+/home/suheyl/Dev/arch-update/obj/Debug/net6.0/arch-update.AssemblyInfo.cs
+/home/suheyl/Dev/arch-update/obj/Debug/net6.0/arch-update.csproj.CoreCompileInputs.cache
+/home/suheyl/Dev/arch-update/obj/Debug/net6.0/arch-update.csproj.CopyComplete
+/home/suheyl/Dev/arch-update/obj/Debug/net6.0/arch-update.dll
+/home/suheyl/Dev/arch-update/obj/Debug/net6.0/ref/arch-update.dll
+/home/suheyl/Dev/arch-update/obj/Debug/net6.0/arch-update.pdb
+/home/suheyl/Dev/arch-update/obj/Debug/net6.0/arch-update.genruntimeconfig.cache
